@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Domain</key>
+    <string>auth-wallet-mpc.dev.upbond.io</string>
+    <key>ClientId</key>
+    <string>h3WPdvCSwyMyFDy1Cjrmh</string>
+</dict>
+</plist>
